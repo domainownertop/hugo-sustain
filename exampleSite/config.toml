@@ -1,6 +1,6 @@
 baseURL = "https://ferran.co/"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Ferran Arroyo"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,7 +12,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "img/profile.png"
-  author = "Chris Turner"
+  author = "Ferran Arroyo"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -23,7 +23,7 @@ theme = "hugo-sustain"
   Github        = "username"
   Email         = "hola@ferran.co"
   Twitter       = "username"
-  LinkedIn      = "username"
+  LinkedIn      = "https://www.linkedin.com/in/actuariodatascientist"
   Stackoverflow = "username"
   Medium        = "username"
   Telegram      = "username"
