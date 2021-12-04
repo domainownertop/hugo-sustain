@@ -3,9 +3,9 @@
 
 Hola! Yo soy **Ferran Arroyo**.
 
-Oficialmente trabajo como Data Scientist.
+En mi día a día trabajo como Data Scientist.
 
-Me encuadro en la intersección de los geeks y los techies.
+Doy clases de Data Science en la Universidad.
 
 Me encanta el mundo cripto y el mundo de los dominios.
 
