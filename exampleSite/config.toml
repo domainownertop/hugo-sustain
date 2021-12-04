@@ -39,7 +39,7 @@ theme = "hugo-sustain"
   name = "dev mode"
   identifier = "dev mode"
   weight = 100
-  url = "https://www.ferran.co"
+  url = "https://www.devmode.ferran.co"
 [[menu.main]]
   name = "proyectos"
   identifier = "proyectos"
@@ -49,4 +49,4 @@ theme = "hugo-sustain"
   name = "curriculum"
   identifier = "curriculum"
   weight = 300
-  url = "https://www.ferran.co"
+  url = "https://www.curriculum.ferran.co"
