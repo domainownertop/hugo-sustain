@@ -30,11 +30,16 @@ theme = "hugo-sustain"
   #RSS           = "/blog/index.xml"
 
 ## Main Menu
+#[[menu.main]]
+#  name = "blog"
+#  weight = 100
+#  identifier = "blog"
+#  url = "/blog/"
 [[menu.main]]
-  name = "blog"
+  name = "dev mode"
+  identifier = "dev mode"
   weight = 100
-  identifier = "blog"
-  url = "/blog/"
+  url = "https://www.ferran.co"
 [[menu.main]]
   name = "proyectos"
   identifier = "proyectos"
