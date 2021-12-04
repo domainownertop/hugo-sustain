@@ -78,12 +78,12 @@ html, body {
 }
 
 .container a {
-  color: #27a822;
+  color: #000000;
   text-decoration: none;
 }
 
 .container a:hover {
-  color: #267723;
+  color: #242424;
 }
 
 .container p img,
@@ -121,12 +121,12 @@ html, body {
 
 .panel h4 a,
 h5 a {
-  color: #27a822;
+  color: #000000;
 }
 
 .panel h4 a:hover,
 h5 a:hover {
-  color: #267723;
+  color: #242424;
 }
 
 .social-links {
@@ -196,7 +196,7 @@ h5 a:hover {
 
 /* Footer  */
 .footer {
-  border-bottom: 5px solid #27a822;
+  border-bottom: 5px solid #000000;
   padding: 20px 0;
   text-decoration: none !important;
 }
