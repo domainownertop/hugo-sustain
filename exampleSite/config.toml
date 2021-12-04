@@ -1,5 +1,5 @@
 baseURL = "https://ferran.co/"
-languageCode = "en-US"
+languageCode = "en-es"
 title = "Ferran Arroyo"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -13,7 +13,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "img/profile.png"
   author = "Ferran Arroyo"
-  description = "Describe your website"
+  description = ""
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -22,12 +22,12 @@ theme = "hugo-sustain"
 [params.social]
   Github        = "username"
   Email         = "hola@ferran.co"
-  Twitter       = "username"
+  #Twitter       = "username"
   LinkedIn      = "https://www.linkedin.com/in/actuariodatascientist"
-  Stackoverflow = "username"
-  Medium        = "username"
-  Telegram      = "username"
-  RSS           = "/blog/index.xml"
+  #Stackoverflow = "username"
+  #Medium        = "username"
+  #Telegram      = "username"
+  #RSS           = "/blog/index.xml"
 
 ## Main Menu
 [[menu.main]]
