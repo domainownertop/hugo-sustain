@@ -9,11 +9,11 @@ Doy clases de Data Science en la Universidad.
 
 Me encanta el mundo cripto y el mundo de los dominios.
 
-Puedes echarle un vistazo a mis [proyectos].
+Puedes echarle un vistazo a mis **[proyectos]**.
 
-Para más detalles, puedes consultar mi [resume].
+Para más detalles, puedes consultar mi **[resume]**.
 
-Puedes contactarme por [@username] or by [email].
+Puedes contactarme por **[@username]** or by **[email]**.
 
 
 
