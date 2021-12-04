@@ -20,8 +20,8 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "hola@ferran.co"
+  #Github        = "username"
+  #Email         = "hola@ferran.co"
   #Twitter       = "username"
   LinkedIn      = "https://www.linkedin.com/in/actuariodatascientist"
   #Stackoverflow = "username"
