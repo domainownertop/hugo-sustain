@@ -1,19 +1,23 @@
 ---
 ---
 
-I'm **Chris Turner**, a Software Engineer.
+Hola! Yo soy **Ferran Arroyo**.
 
-I love all things computer science and maths.
+Oficialmente trabajo como Data Scientist.
 
-Have a look at some of my working [projects].
+Me encuadro en la intersección de los geeks y los techies.
 
-For more check out my academic & professional [resume].
+Me encanta el mundo cripto y el mundo de los dominios.
 
-Contact me at [@username] or by [email].
+Puedes echarle un vistazo a mis [projects].
+
+Para más detalles, puedes consultar mi [resume].
+
+Puedes contactarme por [@username] or by [email].
 
 
 
 [projects]: /projects
 [resume]: https://demo.nurlan.co/hugo-vitae/
-[@username]: https://twitter.com/username
-[email]: mailto:email@example.com
+[@username]: https://es.linkedin.com/in/actuariodatascientist
+[email]: mailto:hola@ferran.co
