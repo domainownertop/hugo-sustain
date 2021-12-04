@@ -11,13 +11,13 @@ Me encanta el mundo cripto y el mundo de los dominios.
 
 Puedes echarle un vistazo a mis **[proyectos]**.
 
-Para más detalles, puedes consultar mi **[resume]**.
+Para más detalles, puedes consultar mi **[curriculum]**.
 
 Puedes contactarme por **[Linkedin]**.
 
 
 
 [proyectos]: /proyectos
-[resume]: https://demo.nurlan.co/hugo-vitae/
+[curriculum]: https://www.ferran.co
 [Linkedin]: https://es.linkedin.com/in/actuariodatascientist
 [universidad]: https://www.il3.ub.edu/master-big-data-science
