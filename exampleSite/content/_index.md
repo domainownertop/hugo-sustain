@@ -13,11 +13,11 @@ Puedes echarle un vistazo a mis **[proyectos]**.
 
 Para más detalles, puedes consultar mi **[resume]**.
 
-Puedes contactarme por **[@Linkedin]**.
+Puedes contactarme por **[Linkedin]**.
 
 
 
 [proyectos]: /proyectos
 [resume]: https://demo.nurlan.co/hugo-vitae/
-[@Linkedin]: https://es.linkedin.com/in/actuariodatascientist
+[Linkedin]: https://es.linkedin.com/in/actuariodatascientist
 [universidad]: https://www.il3.ub.edu/master-big-data-science
