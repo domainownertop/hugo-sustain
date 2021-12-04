@@ -5,7 +5,7 @@ Hola! Yo soy **Ferran Arroyo**.
 
 En mi día a día trabajo como Data Scientist.
 
-Doy clases de Data Science en la Universidad.
+Doy clases de Data Science en la [universidad].
 
 Me encanta el mundo cripto y el mundo de los dominios.
 
@@ -21,3 +21,4 @@ Puedes contactarme por **[@username]** or by **[email]**.
 [resume]: https://demo.nurlan.co/hugo-vitae/
 [@username]: https://es.linkedin.com/in/actuariodatascientist
 [email]: mailto:hola@ferran.co
+[universidad]: https://www.il3.ub.edu/master-big-data-science
